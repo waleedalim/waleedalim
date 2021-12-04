@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @waleedalim
+- 👀 I’m interested in learning new things!
+- 🌱 I’m currently learning the C++ language
+- 📫 Reach out!
