@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waleedalim
 - 📘 Student at New Jersey Institute of Technology 
-- 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning the C++ language
-- 📫 Reach out!
+- 🌱 I’m currently learning about machine learning
+- 🖥️ Current Tech Stack: Java, Python, C, C++, JavaScript
 - 🔗 waleedalim.com
