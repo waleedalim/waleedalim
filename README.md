@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @waleedalim
+- 📘 Student at New Jersey Institute of Technology 
 - 👀 I’m interested in learning new things!
 - 🌱 I’m currently learning the C++ language
 - 📫 Reach out!
+- 🔗 waleedalim.com
