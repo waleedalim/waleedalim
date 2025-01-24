@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @waleedalim
-- 📘 Student at New Jersey Institute of Technology 
-- 🌱 I’m currently learning about machine learning
-- 🖥️ Current Tech Stack: Java, Python, C, C++, JavaScript
+- 📘 CS student at New Jersey Institute of Technology 
 - 🔗 waleedalim.com
